@@ -5,5 +5,5 @@ eid: zw5653
 email: znwang@utexas.edu
 
 Name: Nicole Estabrook
-eid: 
+eid: nae588
 email: 	nicole.estabrook@gmail.com
